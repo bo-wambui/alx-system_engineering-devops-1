@@ -1,2 +1,2 @@
 #!/bin/bash
-Related to computer
+echo $ PWD
